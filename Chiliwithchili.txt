@@ -1,9 +1,10 @@
+<<<<<<< HEAD
 ## The Best Classic Chili 
 This traditional chili recipe is just like mom used to make with ground beef, beans, and a simple homemade blend of chili seasonings.
 
 
 ## Instructions
-Heat olive olie in a large soup pot. 
+Heat olive oil in a large soup pot. 
 Add chopped onion and cook for 5 minutes.
 Add ground beef and break it apart with a wooden spoon.
 Cook for 6-7 minutes.
@@ -13,7 +14,7 @@ Stir until well combined.
 
 ## Required toppings
 shredded chedder cheese
-
+…
 ## Optional toppings
 sour cream
 sliced green onions
