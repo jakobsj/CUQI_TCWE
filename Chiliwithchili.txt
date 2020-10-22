@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Instructions
+=======
+## The Best Classic Chili 
+This traditional chili recipe is just like mom used to make with ground beef, beans, and a simple homemade blend of chili seasonings.
+
+
+## Instructions
+>>>>>>> remotes/origin/PotofChili
 Heat olive olie in a large soup pot. 
 Add chopped onion and cook for 5 minutes.
 Add ground beef and break it apart with a wooden spoon.
@@ -7,10 +15,17 @@ Cook for 6-7 minutes.
 Add chili powder, cumin, sugar, tomato paste, garlic powder, salt, pepper, and optional cayenne. 
 Stir until well combined.
 
+<<<<<<< HEAD
 Optional toppings
+=======
+## Optional toppings
+>>>>>>> remotes/origin/PotofChili
 shredded cheddar cheese
 sour cream
 sliced green onions
 saltine crackers or oyster crackers
 diced avocado
+<<<<<<< HEAD
 cilantro
+=======
+>>>>>>> remotes/origin/PotofChili
