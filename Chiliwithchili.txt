@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## The Best Classic Chili 
 This traditional chili recipe is just like mom used to make with ground beef, beans, and a simple homemade blend of chili seasonings.
 
@@ -14,7 +13,7 @@ Stir until well combined.
 
 ## Required toppings
 shredded chedder cheese
-…
+
 ## Optional toppings
 sour cream
 sliced green onions
